@@ -1,3 +1,6 @@
-# Game
+# (h)ECS Game 
+
+- macroquad
+- hacs
 
 
